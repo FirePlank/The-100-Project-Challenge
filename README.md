@@ -1,4 +1,4 @@
-# The 100 Projects Challenge
+# The 100 Project Challenge
 A repository containing dozens of projects requiring vastly different skillsets. All the projects that I might add to this repository can be found from the image below.
 ![image](https://user-images.githubusercontent.com/44502537/137195034-3cdba83d-d1e5-4c89-bf6d-77f83d5f46c1.png)
 I won't be making all of the projects in the picture but I'll be making as many as I can. I will be doing these projects in different languages such as rust, python, js etc.
